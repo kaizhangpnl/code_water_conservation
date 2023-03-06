@@ -5,11 +5,13 @@ See details on E3SM Confluence
 https://acme-climate.atlassian.net/wiki/spaces/CM/pages/3664019528/Water+conservation 
 
 
-# Method 
+## Method 
 
 Using 5-day short simulations to diagnose water conservation error in individual components. 
 
-# Maint-2.0 
+## Simulations 
+
+### Maint-2.0 
 
 Case and output directories: /lcrc/group/e3sm/ac.kzhang/model/maint-2.0/v2_WATCON10_EXP01
 
@@ -24,7 +26,7 @@ Case and output directories: /lcrc/group/e3sm/ac.kzhang/model/maint-2.0/v2_WATCO
     Unit (mm/century)
 ```
 
-# v3atm_4th 
+### v3atm_4th 
 
 Case and output directories: /lcrc/group/e3sm/ac.kzhang/model/v3atm_4th/WATCON10_EXP01
 
